@@ -1,0 +1,19 @@
+
+html{
+  width: 100vw;
+}
+
+.App {
+  text-align: center;
+}
+
+
+.scrollerContainer{
+  /* background-color: #282c34; */
+  height: 100vh;
+  margin-top: 0;
+}
+
+h1{
+  margin: 0
+}
